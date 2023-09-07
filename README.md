@@ -1,3 +1,4 @@
+![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Vishak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" height="200px" widht="200px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
