@@ -1,7 +1,7 @@
 ![MasterHead](banner.png)
 <h1 align="center">Hi 👋</h1>
 
-<img align="right" height="110px" widht="110px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<img align="right" height="100px" widht="100px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishak11&label=Profile%20views&color=0e75b6&style=flat" alt="vishak11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishak11" alt="vishak11" /></a> </p>
