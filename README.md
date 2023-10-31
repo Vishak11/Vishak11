@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.demo.in](www.demo.in)
+- 👨‍💻 My projects are https://diceroll1212.netlify.app/
 
 - 💬 Ask me about **react**
 
