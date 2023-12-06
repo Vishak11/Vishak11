@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My projects-- https://diceroll1212.netlify.app/,https://tiny-jelly-fb4ea0.netlify.app/
+- 👨‍💻 My projects-- https://diceroll1212.netlify.app/,
+- https://tiny-jelly-fb4ea0.netlify.app/
 
 - 💬 Ask me about **react**
 
